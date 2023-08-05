@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://172.1.2.155/apotekrsb/';
+$config['base_url'] = 'isi url masing-masing';
 
 /*
 |--------------------------------------------------------------------------
